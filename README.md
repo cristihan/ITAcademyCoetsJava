@@ -6,6 +6,7 @@ Realitza els següents passos:
 1. Creem dos coets amb els codis “32WESSDS” I “LDSFJA32”. El primer coet tindrà
 tres propulsors i el segon sis propulsors.
 2. Mostrar a pantalla el codi dels coets i el número de propulsors que té.
+
 ------------------------FASE 2--------------------------------:
 Volem millorar el software perquè el propulsor tingui una potència màxima.
 Modifiquem en el main anterior:
@@ -17,6 +18,7 @@ màxima de cada propulsor.
 Output:
 32WESSDS: 10,30,80
 LDSFJA32: 30,40,50,50,30,10
+
 -------------------FASE 3-------------------------------------:
 Tots els propulsors tindran una potència actual que començarà amb 0.
 El coet tindrà dos mètodes, accelerar o frenar i augmentarà o es reduirà de 10 en 10 la
